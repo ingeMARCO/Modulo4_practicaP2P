@@ -1,6 +1,22 @@
+------------
 # Modulo4_practicaP2P
+------------
+
+yum install git  //instal all  
+
+which git
+git config --global user.name "ingeMarco"
+git config --global user.email "inge.marco@icloud.com
+ls .gitconfig
+pwd          
+cd .ssh      
+ls       
+ssh -T git@github.com
+history -w  ingeMarco.txt
 
 
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install git
 
+ /usr/bin/git  ''dir there is no 
+ 
 
